@@ -1,10 +1,17 @@
-# Fortnite-Music-Changer
-[![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
+# Fortnite Music Changer
 
-Allows you to play music based on where you are in the game - At the title screen, Main Menu and at victory
+Allows you to replace fortnite music by reading log files, and playing music when it's relevant
 
-Special Thanks: Wumbo, PATXS, Sebastijan_Galaxy
+## Special thanks to:
 
-## How does it work?
+* [PATXS](https://www.reddit.com/user/PATXS) - Finding bugs and other things 
 
-It reads the log files
+* [Sebastijan_Galaxy](https://www.reddit.com/user/Sebastijan_Galaxy) - Finding bugs and other things
+
+* [reithegoat](https://github.com/reithegoat) - Made it work in chapter 2
+
+
+## FAQ
+
+### Can I be banned?
+No, this doesn't touch the game itself so the anti cheats don't care
